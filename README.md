@@ -1,2 +1,2 @@
-![eog](https://user-images.githubusercontent.com/29885555/133891338-7c2620bc-4ead-4f26-80e4-92dba770ec1d.png)
+![eog](https://user-images.githubusercontent.com/29885555/133892116-db051303-fe6a-4f90-a3d6-4facf4650c6d.png)
 A computational cornucopia of statistical, spatial, and ecological stuff.
