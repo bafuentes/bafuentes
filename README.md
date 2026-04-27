@@ -1,1 +1,1 @@
-A computational cornucopia of statistical, spatial, and ecological stuff.
+Spatial, statistical, computational, and ecological stuff.
